@@ -1,4 +1,5 @@
 # evm-private-key-generator
+[EVM Key Generator]()
 **Simple and secure EVM wallet key generator designed for rapid onboarding and Web3 application development.**
 
 A secure and simple tool for generating private keys and addresses for EVM-compatible blockchains (Ethereum, BNB Chain, Polygon, Arbitrum, Optimism, etc.). This project is intended solely for educational, testing, and research purposes.
