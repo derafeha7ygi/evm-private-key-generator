@@ -1,5 +1,6 @@
 # evm-private-key-generator
-[EVM Key Generator](5d14393e-0550-4c5a-9aa9-003f43385068.png)
+<img src="5d14393e-0550-4c5a-9aa9-003f43385068.png
+" width="600" />
 
 **Simple and secure EVM wallet key generator designed for rapid onboarding and Web3 application development.**
 
